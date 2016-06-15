@@ -1,0 +1,187 @@
+/* CSS Document */
+
+.paddingzero { padding:0;}
+
+/* reset */
+
+
+/*landing page*/
+
+/*header*/
+
+
+.header-10 .navbar .nav > li.active > a {
+    color: #39d2c9;
+}
+
+
+.feat-title { margin-bottom:40px;}
+
+
+.onboard-cta {    border-radius: 1px; background:#39d2c9;}
+
+.header-10 .navbar .navbar-form {
+    padding: 9px 0 19px 60px;
+}
+
+
+.header-10 .navbar .navbar-form .btn:hover, .btn.active, .btn:focus {
+    background-color: #26C6DA;
+}
+
+.search-cta:hover, .search-cta.active, .search-cta:focus{background-color: #26C6DA; color:#ffffff; border:1px solid #26C6DA;}
+
+
+
+.more-bottom-link {margin-top:40px;}
+.more-btn { border:1px solid #26C6DA; padding:20px; margin-top:80px; color:#26C6DA}
+.more-btn:hover {background:#26C6DA; color:#ffffff}
+
+
+/*header*/
+
+.listbusiness-cta {display: block;
+    padding: 60px;
+    margin: 20px 0;
+    background: url(https://d1vwnfeb9fby91.cloudfront.net/public/home/prosignup_bg.jpg) no-repeat #eef5f5;
+    background-size: cover;
+    text-align: center;
+	    margin-bottom: 0;}
+
+
+.header-10 {
+    background-color: #FFF;
+    border-bottom: #f6f7f7 solid 2px;
+}
+
+
+.header-10-sub {
+    height: 400px;
+}
+
+.hero-unit .form-inline .form-control { border-radius:1px; border:0; width:350px;margin-left: -3px;    height: 40px;}
+
+.search-cta {     color: #fff;    margin-left: -3px;
+    background: #39d2c9; border-radius:1px;height: 40px;letter-spacing: 1px;
+    border: 1px solid #39d2c9;}
+
+.keywords { margin-top:40px;}
+.keywords a { margin-left:20px; color:#ffffff;}
+
+.keywords a:hover {color: #39d2c9; }
+
+.box-text {     position: absolute;
+    left: 120px;
+    top: 140px;
+    display: block;
+    }
+	.box-text h4 {color: #ffffff;    font-size: 24px;
+    font-weight: 100;}
+	.box-text h5 {color: #ffffff;    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;}
+
+	.featured-landing .thumbnail{ width:360px; height:360px; overflow:hidden;padding: 0;}
+
+	.featured-landing .thumbnail img{height: 360px;
+    /* float: left; */
+    display: block;
+    /* margin-right: 2.35765%; */
+    width: 100%;}
+
+
+.content-8 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+.result-content p{ font-size:12px; color:#333;    margin-bottom: 20px;}
+
+.result-content a{ color:#666; }
+.btn-cta-result {background: #39d2c9;
+    border-radius: 1px;
+    border: 0; margin-top:20px; color:#ffffff;}
+	p a.btn-cta-result{color:#ffffff;}
+
+
+.detailpage-content { padding:40px 0; min-height:600px;}
+
+ .detailpage-content p {
+    font-size: 14px;
+    color: #333;
+}
+
+
+.checkout-content { padding:40px 0; min-height:600px;}
+.checkout-content p {
+    font-size: 14px;
+    color: #333;
+}
+
+.checkout-content h6 {font-size: 16px; font-weight:bold;}
+
+.header-10 .navbar .nav > li > a {
+    color: #000;
+}
+
+
+.book-btn { background: #21cdc3; color:#FFF; border-radius:2px;}
+
+.book-btn:hover {color:#FFF;}
+
+
+
+
+.selecttime .btn-group > .btn { border-radius:2px;}
+
+.btn-group .btn + .btn {
+    margin: 0 5px 5px 5px;
+}
+
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+}
+
+
+.modal-body {
+    position: relative;
+    padding: 20px;
+    height: 320px;
+    width: 360px;
+}
+
+.modal-content {
+    width: 360px;
+}
+
+
+.head{
+  padding-top: 0px !important;
+  width: 100%;
+  min-height: 300px;
+  background-image: url('/img/taylor.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/*footer*/
+
+.footer-3 p a{    line-height: 28px;
+    font-size: 14px;}
+
+#mc_embed_signup{
+  padding-top:80px;
+  color:#000;
+}
+#mc_embed_signup .button{
+  background-color: #26C6DA !important;
+  border-radius: 0px !important;
+}
